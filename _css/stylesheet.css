@@ -1,0 +1,14 @@
+.rounded-circle {
+			border-radius: 50%!important;
+}
+
+body {
+	/*background-color: #DCDCDC;*/
+	font-family: verdana; 
+}
+
+#grow:hover {
+	-webkit-transform: scale(1.3);
+	-ms-transform: scale(1.3);
+	transform: scale(1.3);
+}
